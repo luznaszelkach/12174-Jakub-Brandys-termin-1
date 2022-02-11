@@ -15,9 +15,9 @@ namespace _12174_Jakub_Brandys_termin_1.Controllers
         {
             ListaOceny = new List<Oceny>()
             {
-                new Oceny() {Album=123456,Punkty=22,Ocena="F"},
-                new Oceny() {Album=122356,Punkty=90,Ocena="A"},
-                new Oceny() {Album=123256,Punkty=70,Ocena="C"}
+                new Oceny() {Album=123456,Punkty=22,Ocena="F",Data="2021-11-02" },
+                new Oceny() {Album=122356,Punkty=90,Ocena="A",Data="2021-10-05" },
+                new Oceny() {Album=123256,Punkty=70,Ocena="C",Data="2021-07-12"}
 
             };
         }

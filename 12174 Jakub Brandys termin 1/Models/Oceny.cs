@@ -12,6 +12,6 @@ namespace _12174_Jakub_Brandys_termin_1.Models
         public int Punkty { get; set; }
         public string Ocena { get; set; }
 
-        public DataType Data { get; set; }
+        public string Data { get; set; }
     }
 }
